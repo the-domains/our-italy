@@ -1,0 +1,28 @@
+name: Our Italy
+favicon: null
+layout_spectrum: 0.21796285221353173
+typography_spectrum: 0.9310935062821954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6362578377593309
+  lightness: 0.7666279228869826
+  saturation: 0.2763275664765388
+  rhythmicContrast: 0.28595855040475726
+purpose: []
