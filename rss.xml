@@ -2,17 +2,31 @@
     <channel>
         <title><![CDATA[Our Italy]]></title>
         <description><![CDATA[Our Italy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/our-italy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 14:59:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 17:09:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/our-italy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blogging is hard]]></title>
+            <description><![CDATA[<article><h1>Blogging is hard</h1><p>
+Because, you see, in spite of all my good intentions and living in Italy
+ for a month I haven’t been able to update my site and my blog. Too much
+ to do, too tired and no internet were the main reasons! Really, it is 
+astounding how much energy it takes…
+
+
+</p></article>]]></description>
+            <link>https://thegrid.ai/our-italy/blogging-is-hard/index.html</link>
+            <guid isPermaLink="false">88b4e6ed-1710-4d7f-b331-c23a319548df</guid>
+            <pubDate>Tue, 29 Mar 2016 17:09:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We found our terrace stones]]></title>
             <description><![CDATA[<article><h1>We found our terrace stones</h1><p>Good, another step. We have found the hand-made tiles that will go 
 onto our terrace..... the family business at the company below has a 
 great and friendly attitude towards customers, an honest, local made 
 product AND a great price !</p></article>]]></description>
-            <link>undefinedwe-found-our-terrace-stones/index.html</link>
+            <link>https://thegrid.ai/our-italy/we-found-our-terrace-stones/index.html</link>
             <guid isPermaLink="false">91be190c-0b59-4290-ad07-a38f62e70f7f</guid>
             <pubDate>Tue, 29 Mar 2016 14:59:15 GMT</pubDate>
         </item>
